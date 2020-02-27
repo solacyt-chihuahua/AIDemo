@@ -9,6 +9,7 @@ Este es una demostracion de text to speech utilizando Powershell
 3) El programa para probar voces es: Testing.Ps1
 4) EL programa para desbloquear voces de windows 10 en powershell es: unlockvoices.ps1 
 5) Archivo de dialogos es: Text\Texto.txt (Archivo separado por comas)
+6) Voces utilizadas: Microsoft David (United States), Raul (Male Spanish Mexico), Sabina (Female Spanish Mexico)
 
 ## Enlaces de Referencia:
 
