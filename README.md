@@ -2,14 +2,21 @@
 Proyecto AIDemo
 
 Este es una demostracion de text to speech utilizando Powershell
+Este programa se realizo especialmente para el evento Proyecto Multimedia Chihuahua 2020
+Realizado el dia Febrero 22 del 2020 en la Universidad Autonoma de Ciudad Juarez.
+
+## Youtube
+El siguiente enlace es la presentacion grabada en Youtube.
+https://www.youtube.com/watch?v=i-FDUt8n2Ts
 
 ## Instrucciones:
 1) Bajar el contenido de este repositorio en el directorio c:\AiDemo
 2) El programa principal es: PM2020CH.ps1
 3) El programa para probar voces es: Testing.Ps1
-4) EL programa para desbloquear voces de windows 10 en powershell es: unlockvoices.ps1 
+4) El programa para desbloquear voces de windows 10 en powershell es: unlockvoices.ps1 
 5) Archivo de dialogos es: Text\Texto.txt (Archivo separado por comas)
 6) Voces utilizadas: Microsoft David (United States), Raul (Male Spanish Mexico), Sabina (Female Spanish Mexico)
+7) Directorio con imagenes es: Pictures\
 
 ## Enlaces de Referencia:
 
