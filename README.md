@@ -3,14 +3,14 @@ Proyecto AIDemo
 
 Este es una demostracion de text to speech utilizando Powershell
 
-##Instrucciones:
+## Instrucciones:
 1) Bajar el contenido de este repositorio en el directorio c:\AiDemo
 2) El programa principal es: PM2020CH.ps1
 3) El programa para probar voces es: Testing.Ps1
 4) EL programa para desbloquear voces de windows 10 en powershell es: unlockvoices.ps1 
 5) Archivo de dialogos es: Text\Texto.txt (Archivo separado por comas)
 
-##Enlaces de Referencia:
+## Enlaces de Referencia:
 
 https://www.scriptinglibrary.com/languages/powershell/powershell-text-to-speech/
 
