@@ -1,0 +1,28 @@
+Slide1,“Estan listos?... Are you Ready?”,L
+Slide1,“Comenzamos...”,M
+Slide2,“Welcome!... Bienvenidos... Mi nombre es Luis...”, L
+Slide3,“Hola... mi nombre es Maria y estoy muy contenta de estar hoy con ustedes”, M
+Slide4,“Mi nombre es Raúl y estoy muy emocionado de estar aquí por primera vez”, R
+Slide5,“Nosotros somos BOTS parlantes... fuimos creados especialmente para Proyecto Multimedia 2020... con código abierto en lenguaje script.. que tal vez ya lo conoces o hayas escuchado... se llama PowerShell... y se encuentra en todas las computadoras con Windows 10... si te interesa podras ver nuestro código fuente en el repositorio de SOLACYT Chihuahua...  en Github punto com”, M
+Slide6,“Awesome... Mi nombre es Luis... vengo de EL Paso Texas... yo hablo Ingles... pero se poquito español.”,L
+Slide7,“Hola... mi nombre es María... nací en Ciudad Juárez... yo soy un bot parlante emocional... me gustan mucho las emociones y expresarme en sentimientos”,M
+Slide8,“Yo soy Raul... soy de Guadalajara y algunas de mis habilidades son leer y contar chistes”, R
+Slide9,“Existen varios Elementos de la inteligencia Artificial como el procesamiento del lenguaje ”, M
+Slide10, “y dentro de esas áreas… una de ellas  es el Text to Speech o Texto hablado” , R
+Slide11, “Estamos usando tecnología de texto hablado en esta presentación para hablar con usted”, L
+Slide12, “Los bots parlantes tenemos la capacidad de comunicarnos con los humanos gracias a la tecnología text to speech.”, R
+Slide13, “El año pasado… la delegación Chihuahua… asistió al evento de Infomatrix Latinoamérica continental que se llevo a cabo en la ciudad de Guadalajara... en donde se propuso que se agregara la categoría de inteligencia artificial a las competencias de Proyecto Multimedia ”, M
+Slide14, “En este año 2020… Fernando Guzmán… fundador de Solacyt… nos solicitó una demostración o simulación de Inteligencia Artificial utilizando alguna de las áreas en desarrollo… y es por eso que aquí estamos… quisimos comenzar con algo realmente sencillo… tres Bots parlantes comunicándose con el publico y haciéndolos sentir emociones.”, M
+Slide15, “A su vez... nosotros hemos lanzado un reto... al que llamamos reto A I… en el cual participaran todos los equipos de Proyecto Multimedia Chihuahua 2020… y que consiste en plasmar las ideas de proyectos de Inteligencia Artificial que pudieran realizarse y aplicarse en tu comunidad… este día… todos los alumnos participantes en este evento… plasmaran en un cuaderno de trabajo que se les proveerá… sus ideas de proyecto de Inteligencia Artificial… El cuaderno de trabajo será revisado por los evaluadores designados... a partir de las 4:30 PM... determinando que equipo ha propuesto la mejor idea de proyecto de Inteligencia Artificial... y por lo tanto el ganador del reto.”, R
+Slide16, “That sounds Fantastic!!! right? Eso suena muy bien!!! Verdad?… hehe”, L
+Slide17, “Bueno ahora si viene el momento de la verdad… nuestro amigo Raúl intentara hacerles reír y pasar un buen rato…. Si les gusta… disfrútenlo…”, M
+Slide18, “Muchas gracias… Les voy a contar un chiste que me cuenta mi amiga Alexa… a ver... Porque a los tiburones… no les gusta comer pez payaso?… ”,R
+Slide19, “Porque saben chistoso… jajajaja”, R
+Slide20, “¿Qué le dice un techo a otro?..... Techo de menos….”, R
+Slide21, “Ahora mi ultimo chiste…. ¿Qué esta haciendo una vaca con los ojos cerrados?..... Saben?….”, R
+Slide22, “Esta haciendo... Leche concentrada….”, R
+Slide23, “Les gustó?… a mi la verdad me encantaron… espero que a ustedes también les hayan gustado”, M
+Slide24, “Si les gustó... enfadó... o divirtió nuestra presentación... hemos logrado nuestro objetivo de darle alguna emoción a tu vida. Ya para terminar… y como este es un evento cultural…. Les vamos a presentar a un grupo musical… son unos amigos rusos que verdaderamente saben lo que hacen… Disfrutenlo….”, M
+
+
+
