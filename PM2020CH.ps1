@@ -35,8 +35,6 @@ function Out-Speech( [string]$text, [string]$Sex)
 
 $picturespath="C:\AIDemo\Pictures\PM2020ChihSlides\"
 $textpath="C:\AIDemo\Text"
-$videospath="C:\AIDemo\Videos\"
-
 
 
 $wait = 1
